@@ -16,7 +16,6 @@
 		88997B5E1C7B341C001FCB0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88997B5C1C7B341C001FCB0E /* LaunchScreen.storyboard */; };
 		88997B691C7B341C001FCB0E /* TestGetProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88997B681C7B341C001FCB0E /* TestGetProjectTests.m */; };
 		88997B741C7B341D001FCB0E /* TestGetProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88997B731C7B341D001FCB0E /* TestGetProjectUITests.m */; };
-		D3E696A81C7B4BD60052B66C /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E696A71C7B4BD60052B66C /* SplashViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,8 +53,6 @@
 		88997B6F1C7B341D001FCB0E /* TestGetProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGetProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88997B731C7B341D001FCB0E /* TestGetProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGetProjectUITests.m; sourceTree = "<group>"; };
 		88997B751C7B341D001FCB0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D3E696A61C7B4BD60052B66C /* SplashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SplashViewController.h; path = ../SplashViewController.h; sourceTree = "<group>"; };
-		D3E696A71C7B4BD60052B66C /* SplashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SplashViewController.m; path = ../SplashViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,8 +103,6 @@
 		88997B4A1C7B341C001FCB0E /* TestGetProject */ = {
 			isa = PBXGroup;
 			children = (
-				D3E696A61C7B4BD60052B66C /* SplashViewController.h */,
-				D3E696A71C7B4BD60052B66C /* SplashViewController.m */,
 				88997B4E1C7B341C001FCB0E /* AppDelegate.h */,
 				88997B4F1C7B341C001FCB0E /* AppDelegate.m */,
 				88997B511C7B341C001FCB0E /* ViewController.h */,
@@ -278,7 +273,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3E696A81C7B4BD60052B66C /* SplashViewController.m in Sources */,
 				88997B531C7B341C001FCB0E /* ViewController.m in Sources */,
 				88997B501C7B341C001FCB0E /* AppDelegate.m in Sources */,
 				88997B591C7B341C001FCB0E /* TestGetProject.xcdatamodeld in Sources */,
