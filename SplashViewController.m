@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"splashScreen");
     // Do any additional setup after loading the view.
+    //qqqqqqqqqq
 }
 
 - (void)didReceiveMemoryWarning {
