@@ -21,7 +21,11 @@
     //qusay test
     //second commit
     //third commit
+<<<<<<< HEAD
     //abcd test
+=======
+    //new commit
+>>>>>>> origin/Esraa
     
     return YES;
 }
