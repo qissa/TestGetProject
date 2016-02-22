@@ -17,12 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    //First Commit
-    //qusay test
-    //second commit
-    //third commit
-    //new commit
-    //dddddd
     
     return YES;
 }
